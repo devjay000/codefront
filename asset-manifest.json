@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codefront/static/css/main.b30fa12b.css",
+    "main.js": "/codefront/static/js/main.27e8d88b.js",
+    "index.html": "/codefront/index.html",
+    "main.b30fa12b.css.map": "/codefront/static/css/main.b30fa12b.css.map",
+    "main.27e8d88b.js.map": "/codefront/static/js/main.27e8d88b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b30fa12b.css",
+    "static/js/main.27e8d88b.js"
+  ]
+}
